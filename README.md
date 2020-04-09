@@ -1,6 +1,9 @@
 # max7219-pic32mx
 MAX7219 library for use with PIC32MX microcontroller
 
+- **Author:** Daniel Carvalho
+- **E-mail:** dacarvalho@ua.pt
+
 **Supported and Tested Microcontrollers**
 Model | Supported | Tested
 ------|-----------|--------
